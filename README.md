@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pod-template
 ============
 
@@ -24,3 +25,7 @@ It is open to communal input, but adding new features, or new ideas are probably
 ## Requirements:
 
 - CocoaPods 1.0.0+
+=======
+# TLKeyBoard
+TLKeyBoard
+>>>>>>> e023cbd117e90d7589deb1c27b190a30140a6268
